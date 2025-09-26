@@ -1,5 +1,5 @@
 
-🎓 Postdoctoral Fellow at The University of Göttingen. 
+🎓 Ph.D. in Physics, University of Göttingen. 
 
 🤝 Combining machine learning models and data.
 
