@@ -13,3 +13,5 @@
 
 🐍 My tools: Machine learning and object-oriented programming (Python, C++, C).
 
+🤖 Like everyone else, I use AI—but I never let it replace my own understanding.
+
