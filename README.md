@@ -11,5 +11,5 @@
 
 (5) Simulations of Lithium-ion batteries.
 
-🐍 My tools: Machine learning and object-oriented programming (Python, C++).
+🐍 My tools: Machine learning and object-oriented programming (Python, C++, C).
 
