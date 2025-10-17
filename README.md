@@ -1,6 +1,7 @@
 🎓 Simulation scientist and passionate software developer with a Ph.D. in Physics from the University of Göttingen.
 
 📊 Experienced in:
+
 (1) Modeling, simulating, and parameterizing membranes and proteins.
 
 (2) Neurotransmitter release from synaptic vesicles.
