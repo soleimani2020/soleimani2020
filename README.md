@@ -1,18 +1,11 @@
-🎓 Ph.D. in Physics, University of Göttingen.
+🎓 Simulation scientist and passionate software developer with a Ph.D. in Physics from the University of Göttingen.
 
-🤝 Combining machine learning models and data.
+📊 Experienced in:
+(1) Modeling, simulating, and parameterizing membranes and proteins.
+(2) Neurotransmitter release from synaptic vesicles.
+(3) Thermal conductivity and phonon transport in advanced materials.
+(4) Self-assembly of surfactants at liquid interfaces.
+(5) Simulations of Lithium-ion batteries.
 
-📊 Research on:
-(1) Modeling, simulating, and parameterizing membranes and proteins through advanced machine learning techniques.
+🐍 My tools: Machine learning and object-oriented programming (Python, C++).
 
-(2) Neurotransmitter release from synaptic vesicles, specifically exploring processes like fusion and fission.
-
-(3) Thermal conductivity and phonon transport in semiconductors (silicon) and supermaterials (graphene).
-
-(4) Self-assembly of surfactants at interfaces using molecular dynamics simulations.
-
-(5) Molecular Dynamic Simulations of Lithium Ion Batteries.
-
-🐍 Machine learning and object-oriented programming (Python, C++) are my tools.
-
-🤔 AI is powerful, but remembering the past is crucial—Terminator warned us about that.
