@@ -1,18 +1,30 @@
-🎓 Simulation scientist and passionate software developer with a Ph.D. in Physics from the University of Göttingen.
+# 🎓 Simulation Scientist & Software Developer  
+**Ph.D. in Physics, University of Göttingen**  
 
-📊 Research and development in areas:
+## 📊 Research & Development Focus Areas
 
-(1) Modeling, simulating, and parameterizing membranes and proteins.
+1. **Membrane and Protein Modeling**  
+   Advanced simulations and parameterization of biological membranes and protein systems.  
+   [🔗 Nature Article](https://www.nature.com/articles/s41598-024-75490-2)
 
-(2) Neurotransmitter release from synaptic vesicles.
+2. **Neurotransmitter Release**  
+   Investigating synaptic vesicle dynamics and mechanisms of neurotransmitter release.  
+   [🔗 Biophysical Journal](https://www.cell.com/biophysj/fulltext/S0006-3495(24)00392-8)
 
-(3) Thermal conductivity and phonon transport in advanced materials.
+3. **Thermal Conductivity & Phonon Transport**  
+   Studying heat transport in advanced materials through molecular simulations.  
+   [🔗 ACS Publications](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.8b05898)
 
-(4) Self-assembly of surfactants at liquid interfaces.
+4. **Surfactant Self-Assembly**  
+   Exploring interfacial behavior of surfactants at liquid interfaces.  
+   [🔗 ACS Nano](https://pubs.acs.org/doi/full/10.1021/acsnano.3c02107)
 
-(5) Simulations of Lithium-ion batteries.
+5. **Lithium-Ion Battery Simulations**  
+   Modeling ion transport and material behavior in battery systems.  
+   [🔗 LAMMPS Workshop](https://www.lammps.org/workshops/Aug17/pdf/zamani.pdf)
 
-🐍 My tools: Machine learning and object-oriented programming (Python, C++, C).
+## 🐍 Technical Skills
+Machine learning, object-oriented programming (Python, C++, C)
 
-🤖 Like everyone else, I use AI—but I never let it replace my own understanding.
-
+## 🤖 AI Perspective
+I leverage AI as a tool—but never let it replace deep understanding and critical thinking.
