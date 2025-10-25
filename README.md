@@ -27,4 +27,4 @@
 Machine learning, object-oriented programming (Python, C++, C)
 
 ## 🤖 AI Perspective
-I leverage AI as a tool—but never let it replace deep understanding and critical thinking.
+Like everyone I also use AI—but never let it replace deep understanding and critical thinking.
