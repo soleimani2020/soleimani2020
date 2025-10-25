@@ -1,6 +1,6 @@
 🎓 Simulation scientist and passionate software developer with a Ph.D. in Physics from the University of Göttingen.
 
-📊 Experienced in:
+📊 Research and development in areas:
 
 (1) Modeling, simulating, and parameterizing membranes and proteins.
 
