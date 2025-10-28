@@ -7,11 +7,11 @@
    Advanced simulations and parameterization of biological membranes and protein systems.  
    [🔗 Nature Article](https://www.nature.com/articles/s41598-024-75490-2)
 
-2. **Computational Neuroscience:Neurotransmitter Release**  
+2. **Computational Neuroscience: Neurotransmitter Release**  
    Investigating synaptic vesicle dynamics and mechanisms of neurotransmitter release.  
    [🔗 Biophysical Journal](https://www.cell.com/biophysj/fulltext/S0006-3495(24)00392-8)
 
-3. **Computational Materials Science:
+3. **Computational Materials Science**  
    
    **Thermal Conductivity & Phonon Transport**  
    Studying heat transport in advanced materials through molecular simulations.  
