@@ -28,5 +28,4 @@
 ## 🐍 Technical Skills
 Machine learning, object-oriented programming (Python, C++, C)
 
-## 🤖 AI Perspective
-Like everyone I also use AI—but never let it replace deep understanding and critical thinking.
+
