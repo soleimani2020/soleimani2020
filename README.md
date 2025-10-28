@@ -25,7 +25,7 @@
    Modeling ion transport and material behavior in battery systems.  
    [🔗 LAMMPS Workshop](https://www.lammps.org/workshops/Aug17/pdf/zamani.pdf)
 
-## 🐍 Technical Skills
+## 💻🛠️ Technical Skills
 Machine learning, object-oriented programming (Python, C++, C)
 
 
